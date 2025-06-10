@@ -13,13 +13,13 @@ Encrypt and Decrypt Text message
 ![Screenshot 2025-06-10 133143](https://github.com/user-attachments/assets/36a74780-d487-4e14-96bc-f24e58e1bbe7)
 Encrypt and Decrypt Image
 
-**To run this:
+To run this:
 1) Go to Terminal
 2) python3 -m venv venv
 3) venv\Scripts\activate (for windows) (or) source venv/bin/activate (for linux )
 4) pip install -r requirements.txt (make it global)
 5) streamlit run app.py
-**
+
 About
 Enhanced Security Features:
 -256-bit minimum binary key encryption
