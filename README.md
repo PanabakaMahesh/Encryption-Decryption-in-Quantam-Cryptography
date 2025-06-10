@@ -22,8 +22,8 @@ To run this:
 
 About
 Enhanced Security Features:
--256-bit minimum binary key encryption
--XOR-based cryptographic operations
--Secure binary key management
--Copy protection with confirmation
--Cross-platform compatibility
+1) 256-bit minimum binary key encryption
+2) XOR-based cryptographic operations
+3) Secure binary key management
+4) Copy protection with confirmation
+5) Cross-platform compatibility
